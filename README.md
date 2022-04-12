@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gary, mike is my 
+- 👋 Hi, I’m @mike7777op
 - 👀 I’m interested in Artificial intelligence, Django, web crawer and web design
 - 🌱 I’m currently learning Django
 - 📫 How to reach me garypu445@gmail.com
